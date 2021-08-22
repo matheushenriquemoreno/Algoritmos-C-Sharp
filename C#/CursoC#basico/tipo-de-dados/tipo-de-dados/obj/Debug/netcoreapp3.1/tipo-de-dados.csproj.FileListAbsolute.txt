@@ -1,0 +1,12 @@
+C:\Users\mathe\source\repos\tipo-de-dados\tipo-de-dados\bin\Debug\netcoreapp3.1\tipo-de-dados.exe
+C:\Users\mathe\source\repos\tipo-de-dados\tipo-de-dados\bin\Debug\netcoreapp3.1\tipo-de-dados.deps.json
+C:\Users\mathe\source\repos\tipo-de-dados\tipo-de-dados\bin\Debug\netcoreapp3.1\tipo-de-dados.runtimeconfig.json
+C:\Users\mathe\source\repos\tipo-de-dados\tipo-de-dados\bin\Debug\netcoreapp3.1\tipo-de-dados.runtimeconfig.dev.json
+C:\Users\mathe\source\repos\tipo-de-dados\tipo-de-dados\bin\Debug\netcoreapp3.1\tipo-de-dados.dll
+C:\Users\mathe\source\repos\tipo-de-dados\tipo-de-dados\bin\Debug\netcoreapp3.1\tipo-de-dados.pdb
+C:\Users\mathe\source\repos\tipo-de-dados\tipo-de-dados\obj\Debug\netcoreapp3.1\tipo-de-dados.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\tipo-de-dados\tipo-de-dados\obj\Debug\netcoreapp3.1\tipo-de-dados.AssemblyInfo.cs
+C:\Users\mathe\source\repos\tipo-de-dados\tipo-de-dados\obj\Debug\netcoreapp3.1\tipo-de-dados.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\tipo-de-dados\tipo-de-dados\obj\Debug\netcoreapp3.1\tipo-de-dados.dll
+C:\Users\mathe\source\repos\tipo-de-dados\tipo-de-dados\obj\Debug\netcoreapp3.1\tipo-de-dados.pdb
+C:\Users\mathe\source\repos\tipo-de-dados\tipo-de-dados\obj\Debug\netcoreapp3.1\tipo-de-dados.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\mathe\source\guardar-exercicio\exercicio-condicional-07\exercicio-condicional-07\bin\Debug\netcoreapp3.1\exercicio-condicional-07.exe
+C:\Users\mathe\source\guardar-exercicio\exercicio-condicional-07\exercicio-condicional-07\bin\Debug\netcoreapp3.1\exercicio-condicional-07.deps.json
+C:\Users\mathe\source\guardar-exercicio\exercicio-condicional-07\exercicio-condicional-07\bin\Debug\netcoreapp3.1\exercicio-condicional-07.runtimeconfig.json
+C:\Users\mathe\source\guardar-exercicio\exercicio-condicional-07\exercicio-condicional-07\bin\Debug\netcoreapp3.1\exercicio-condicional-07.runtimeconfig.dev.json
+C:\Users\mathe\source\guardar-exercicio\exercicio-condicional-07\exercicio-condicional-07\bin\Debug\netcoreapp3.1\exercicio-condicional-07.dll
+C:\Users\mathe\source\guardar-exercicio\exercicio-condicional-07\exercicio-condicional-07\bin\Debug\netcoreapp3.1\exercicio-condicional-07.pdb
+C:\Users\mathe\source\guardar-exercicio\exercicio-condicional-07\exercicio-condicional-07\obj\Debug\netcoreapp3.1\exercicio-condicional-07.csproj.AssemblyReference.cache
+C:\Users\mathe\source\guardar-exercicio\exercicio-condicional-07\exercicio-condicional-07\obj\Debug\netcoreapp3.1\exercicio-condicional-07.AssemblyInfoInputs.cache
+C:\Users\mathe\source\guardar-exercicio\exercicio-condicional-07\exercicio-condicional-07\obj\Debug\netcoreapp3.1\exercicio-condicional-07.AssemblyInfo.cs
+C:\Users\mathe\source\guardar-exercicio\exercicio-condicional-07\exercicio-condicional-07\obj\Debug\netcoreapp3.1\exercicio-condicional-07.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\guardar-exercicio\exercicio-condicional-07\exercicio-condicional-07\obj\Debug\netcoreapp3.1\exercicio-condicional-07.dll
+C:\Users\mathe\source\guardar-exercicio\exercicio-condicional-07\exercicio-condicional-07\obj\Debug\netcoreapp3.1\exercicio-condicional-07.pdb
+C:\Users\mathe\source\guardar-exercicio\exercicio-condicional-07\exercicio-condicional-07\obj\Debug\netcoreapp3.1\exercicio-condicional-07.genruntimeconfig.cache

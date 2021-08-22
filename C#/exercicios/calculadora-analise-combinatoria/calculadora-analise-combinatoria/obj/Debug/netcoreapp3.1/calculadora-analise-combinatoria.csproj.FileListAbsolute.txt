@@ -1,0 +1,13 @@
+C:\Users\mathe\source\guardar-exercicio\calculadora-analise-combinatoria\calculadora-analise-combinatoria\bin\Debug\netcoreapp3.1\calculadora-analise-combinatoria.exe
+C:\Users\mathe\source\guardar-exercicio\calculadora-analise-combinatoria\calculadora-analise-combinatoria\bin\Debug\netcoreapp3.1\calculadora-analise-combinatoria.deps.json
+C:\Users\mathe\source\guardar-exercicio\calculadora-analise-combinatoria\calculadora-analise-combinatoria\bin\Debug\netcoreapp3.1\calculadora-analise-combinatoria.runtimeconfig.json
+C:\Users\mathe\source\guardar-exercicio\calculadora-analise-combinatoria\calculadora-analise-combinatoria\bin\Debug\netcoreapp3.1\calculadora-analise-combinatoria.runtimeconfig.dev.json
+C:\Users\mathe\source\guardar-exercicio\calculadora-analise-combinatoria\calculadora-analise-combinatoria\bin\Debug\netcoreapp3.1\calculadora-analise-combinatoria.dll
+C:\Users\mathe\source\guardar-exercicio\calculadora-analise-combinatoria\calculadora-analise-combinatoria\bin\Debug\netcoreapp3.1\calculadora-analise-combinatoria.pdb
+C:\Users\mathe\source\guardar-exercicio\calculadora-analise-combinatoria\calculadora-analise-combinatoria\obj\Debug\netcoreapp3.1\calculadora-analise-combinatoria.csproj.AssemblyReference.cache
+C:\Users\mathe\source\guardar-exercicio\calculadora-analise-combinatoria\calculadora-analise-combinatoria\obj\Debug\netcoreapp3.1\calculadora-analise-combinatoria.AssemblyInfoInputs.cache
+C:\Users\mathe\source\guardar-exercicio\calculadora-analise-combinatoria\calculadora-analise-combinatoria\obj\Debug\netcoreapp3.1\calculadora-analise-combinatoria.AssemblyInfo.cs
+C:\Users\mathe\source\guardar-exercicio\calculadora-analise-combinatoria\calculadora-analise-combinatoria\obj\Debug\netcoreapp3.1\calculadora-analise-combinatoria.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\guardar-exercicio\calculadora-analise-combinatoria\calculadora-analise-combinatoria\obj\Debug\netcoreapp3.1\calculadora-analise-combinatoria.dll
+C:\Users\mathe\source\guardar-exercicio\calculadora-analise-combinatoria\calculadora-analise-combinatoria\obj\Debug\netcoreapp3.1\calculadora-analise-combinatoria.pdb
+C:\Users\mathe\source\guardar-exercicio\calculadora-analise-combinatoria\calculadora-analise-combinatoria\obj\Debug\netcoreapp3.1\calculadora-analise-combinatoria.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\mathe\source\repos\estrutura-repetitiva-while\estrutura-repetitiva-while\bin\Debug\netcoreapp3.1\estrutura-repetitiva-while.exe
+C:\Users\mathe\source\repos\estrutura-repetitiva-while\estrutura-repetitiva-while\bin\Debug\netcoreapp3.1\estrutura-repetitiva-while.deps.json
+C:\Users\mathe\source\repos\estrutura-repetitiva-while\estrutura-repetitiva-while\bin\Debug\netcoreapp3.1\estrutura-repetitiva-while.runtimeconfig.json
+C:\Users\mathe\source\repos\estrutura-repetitiva-while\estrutura-repetitiva-while\bin\Debug\netcoreapp3.1\estrutura-repetitiva-while.runtimeconfig.dev.json
+C:\Users\mathe\source\repos\estrutura-repetitiva-while\estrutura-repetitiva-while\bin\Debug\netcoreapp3.1\estrutura-repetitiva-while.dll
+C:\Users\mathe\source\repos\estrutura-repetitiva-while\estrutura-repetitiva-while\bin\Debug\netcoreapp3.1\estrutura-repetitiva-while.pdb
+C:\Users\mathe\source\repos\estrutura-repetitiva-while\estrutura-repetitiva-while\obj\Debug\netcoreapp3.1\estrutura-repetitiva-while.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\estrutura-repetitiva-while\estrutura-repetitiva-while\obj\Debug\netcoreapp3.1\estrutura-repetitiva-while.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\estrutura-repetitiva-while\estrutura-repetitiva-while\obj\Debug\netcoreapp3.1\estrutura-repetitiva-while.AssemblyInfo.cs
+C:\Users\mathe\source\repos\estrutura-repetitiva-while\estrutura-repetitiva-while\obj\Debug\netcoreapp3.1\estrutura-repetitiva-while.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\estrutura-repetitiva-while\estrutura-repetitiva-while\obj\Debug\netcoreapp3.1\estrutura-repetitiva-while.dll
+C:\Users\mathe\source\repos\estrutura-repetitiva-while\estrutura-repetitiva-while\obj\Debug\netcoreapp3.1\estrutura-repetitiva-while.pdb
+C:\Users\mathe\source\repos\estrutura-repetitiva-while\estrutura-repetitiva-while\obj\Debug\netcoreapp3.1\estrutura-repetitiva-while.genruntimeconfig.cache
