@@ -1,0 +1,13 @@
+C:\Users\mathe\source\poo\conteudo\modificador-de-parametros-params\modificador-de-parametros-params\bin\Debug\netcoreapp3.1\modificador-de-parametros-params.exe
+C:\Users\mathe\source\poo\conteudo\modificador-de-parametros-params\modificador-de-parametros-params\bin\Debug\netcoreapp3.1\modificador-de-parametros-params.deps.json
+C:\Users\mathe\source\poo\conteudo\modificador-de-parametros-params\modificador-de-parametros-params\bin\Debug\netcoreapp3.1\modificador-de-parametros-params.runtimeconfig.json
+C:\Users\mathe\source\poo\conteudo\modificador-de-parametros-params\modificador-de-parametros-params\bin\Debug\netcoreapp3.1\modificador-de-parametros-params.runtimeconfig.dev.json
+C:\Users\mathe\source\poo\conteudo\modificador-de-parametros-params\modificador-de-parametros-params\bin\Debug\netcoreapp3.1\modificador-de-parametros-params.dll
+C:\Users\mathe\source\poo\conteudo\modificador-de-parametros-params\modificador-de-parametros-params\bin\Debug\netcoreapp3.1\modificador-de-parametros-params.pdb
+C:\Users\mathe\source\poo\conteudo\modificador-de-parametros-params\modificador-de-parametros-params\obj\Debug\netcoreapp3.1\modificador-de-parametros-params.csproj.AssemblyReference.cache
+C:\Users\mathe\source\poo\conteudo\modificador-de-parametros-params\modificador-de-parametros-params\obj\Debug\netcoreapp3.1\modificador-de-parametros-params.AssemblyInfoInputs.cache
+C:\Users\mathe\source\poo\conteudo\modificador-de-parametros-params\modificador-de-parametros-params\obj\Debug\netcoreapp3.1\modificador-de-parametros-params.AssemblyInfo.cs
+C:\Users\mathe\source\poo\conteudo\modificador-de-parametros-params\modificador-de-parametros-params\obj\Debug\netcoreapp3.1\modificador-de-parametros-params.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\poo\conteudo\modificador-de-parametros-params\modificador-de-parametros-params\obj\Debug\netcoreapp3.1\modificador-de-parametros-params.dll
+C:\Users\mathe\source\poo\conteudo\modificador-de-parametros-params\modificador-de-parametros-params\obj\Debug\netcoreapp3.1\modificador-de-parametros-params.pdb
+C:\Users\mathe\source\poo\conteudo\modificador-de-parametros-params\modificador-de-parametros-params\obj\Debug\netcoreapp3.1\modificador-de-parametros-params.genruntimeconfig.cache

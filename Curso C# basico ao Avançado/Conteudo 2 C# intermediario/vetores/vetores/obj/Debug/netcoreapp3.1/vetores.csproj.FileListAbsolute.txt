@@ -1,0 +1,13 @@
+C:\Users\mathe\source\poo\conteudo\vetores\vetores\bin\Debug\netcoreapp3.1\vetores.exe
+C:\Users\mathe\source\poo\conteudo\vetores\vetores\bin\Debug\netcoreapp3.1\vetores.deps.json
+C:\Users\mathe\source\poo\conteudo\vetores\vetores\bin\Debug\netcoreapp3.1\vetores.runtimeconfig.json
+C:\Users\mathe\source\poo\conteudo\vetores\vetores\bin\Debug\netcoreapp3.1\vetores.runtimeconfig.dev.json
+C:\Users\mathe\source\poo\conteudo\vetores\vetores\bin\Debug\netcoreapp3.1\vetores.dll
+C:\Users\mathe\source\poo\conteudo\vetores\vetores\bin\Debug\netcoreapp3.1\vetores.pdb
+C:\Users\mathe\source\poo\conteudo\vetores\vetores\obj\Debug\netcoreapp3.1\vetores.csproj.AssemblyReference.cache
+C:\Users\mathe\source\poo\conteudo\vetores\vetores\obj\Debug\netcoreapp3.1\vetores.AssemblyInfoInputs.cache
+C:\Users\mathe\source\poo\conteudo\vetores\vetores\obj\Debug\netcoreapp3.1\vetores.AssemblyInfo.cs
+C:\Users\mathe\source\poo\conteudo\vetores\vetores\obj\Debug\netcoreapp3.1\vetores.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\poo\conteudo\vetores\vetores\obj\Debug\netcoreapp3.1\vetores.dll
+C:\Users\mathe\source\poo\conteudo\vetores\vetores\obj\Debug\netcoreapp3.1\vetores.pdb
+C:\Users\mathe\source\poo\conteudo\vetores\vetores\obj\Debug\netcoreapp3.1\vetores.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\mathe\source\poo\conteudo\vetores-P2\vetores-P2\bin\Debug\netcoreapp3.1\vetores-P2.exe
+C:\Users\mathe\source\poo\conteudo\vetores-P2\vetores-P2\bin\Debug\netcoreapp3.1\vetores-P2.deps.json
+C:\Users\mathe\source\poo\conteudo\vetores-P2\vetores-P2\bin\Debug\netcoreapp3.1\vetores-P2.runtimeconfig.json
+C:\Users\mathe\source\poo\conteudo\vetores-P2\vetores-P2\bin\Debug\netcoreapp3.1\vetores-P2.runtimeconfig.dev.json
+C:\Users\mathe\source\poo\conteudo\vetores-P2\vetores-P2\bin\Debug\netcoreapp3.1\vetores-P2.dll
+C:\Users\mathe\source\poo\conteudo\vetores-P2\vetores-P2\bin\Debug\netcoreapp3.1\vetores-P2.pdb
+C:\Users\mathe\source\poo\conteudo\vetores-P2\vetores-P2\obj\Debug\netcoreapp3.1\vetores-P2.AssemblyInfoInputs.cache
+C:\Users\mathe\source\poo\conteudo\vetores-P2\vetores-P2\obj\Debug\netcoreapp3.1\vetores-P2.AssemblyInfo.cs
+C:\Users\mathe\source\poo\conteudo\vetores-P2\vetores-P2\obj\Debug\netcoreapp3.1\vetores-P2.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\poo\conteudo\vetores-P2\vetores-P2\obj\Debug\netcoreapp3.1\vetores-P2.dll
+C:\Users\mathe\source\poo\conteudo\vetores-P2\vetores-P2\obj\Debug\netcoreapp3.1\vetores-P2.pdb
+C:\Users\mathe\source\poo\conteudo\vetores-P2\vetores-P2\obj\Debug\netcoreapp3.1\vetores-P2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\mathe\source\poo\conteudo\produto-poo\produto-poo\obj\Debug\netcoreapp3.1\produto-poo.csproj.AssemblyReference.cache
+C:\Users\mathe\source\poo\conteudo\produto-poo\produto-poo\obj\Debug\netcoreapp3.1\produto-poo.AssemblyInfoInputs.cache
+C:\Users\mathe\source\poo\conteudo\produto-poo\produto-poo\obj\Debug\netcoreapp3.1\produto-poo.AssemblyInfo.cs
+C:\Users\mathe\source\poo\conteudo\produto-poo\produto-poo\obj\Debug\netcoreapp3.1\produto-poo.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\poo\conteudo\produto-poo\produto-poo\bin\Debug\netcoreapp3.1\produto-poo.exe
+C:\Users\mathe\source\poo\conteudo\produto-poo\produto-poo\bin\Debug\netcoreapp3.1\produto-poo.deps.json
+C:\Users\mathe\source\poo\conteudo\produto-poo\produto-poo\bin\Debug\netcoreapp3.1\produto-poo.runtimeconfig.json
+C:\Users\mathe\source\poo\conteudo\produto-poo\produto-poo\bin\Debug\netcoreapp3.1\produto-poo.runtimeconfig.dev.json
+C:\Users\mathe\source\poo\conteudo\produto-poo\produto-poo\bin\Debug\netcoreapp3.1\produto-poo.dll
+C:\Users\mathe\source\poo\conteudo\produto-poo\produto-poo\bin\Debug\netcoreapp3.1\produto-poo.pdb
+C:\Users\mathe\source\poo\conteudo\produto-poo\produto-poo\obj\Debug\netcoreapp3.1\produto-poo.dll
+C:\Users\mathe\source\poo\conteudo\produto-poo\produto-poo\obj\Debug\netcoreapp3.1\produto-poo.pdb
+C:\Users\mathe\source\poo\conteudo\produto-poo\produto-poo\obj\Debug\netcoreapp3.1\produto-poo.genruntimeconfig.cache

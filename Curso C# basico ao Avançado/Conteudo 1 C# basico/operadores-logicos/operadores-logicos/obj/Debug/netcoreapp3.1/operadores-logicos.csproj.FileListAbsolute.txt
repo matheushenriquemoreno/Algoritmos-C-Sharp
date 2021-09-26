@@ -1,0 +1,13 @@
+C:\Users\mathe\source\guardar-exercicio\operadores-logicos\operadores-logicos\bin\Debug\netcoreapp3.1\operadores-logicos.exe
+C:\Users\mathe\source\guardar-exercicio\operadores-logicos\operadores-logicos\bin\Debug\netcoreapp3.1\operadores-logicos.deps.json
+C:\Users\mathe\source\guardar-exercicio\operadores-logicos\operadores-logicos\bin\Debug\netcoreapp3.1\operadores-logicos.runtimeconfig.json
+C:\Users\mathe\source\guardar-exercicio\operadores-logicos\operadores-logicos\bin\Debug\netcoreapp3.1\operadores-logicos.runtimeconfig.dev.json
+C:\Users\mathe\source\guardar-exercicio\operadores-logicos\operadores-logicos\bin\Debug\netcoreapp3.1\operadores-logicos.dll
+C:\Users\mathe\source\guardar-exercicio\operadores-logicos\operadores-logicos\bin\Debug\netcoreapp3.1\operadores-logicos.pdb
+C:\Users\mathe\source\guardar-exercicio\operadores-logicos\operadores-logicos\obj\Debug\netcoreapp3.1\operadores-logicos.csproj.AssemblyReference.cache
+C:\Users\mathe\source\guardar-exercicio\operadores-logicos\operadores-logicos\obj\Debug\netcoreapp3.1\operadores-logicos.AssemblyInfoInputs.cache
+C:\Users\mathe\source\guardar-exercicio\operadores-logicos\operadores-logicos\obj\Debug\netcoreapp3.1\operadores-logicos.AssemblyInfo.cs
+C:\Users\mathe\source\guardar-exercicio\operadores-logicos\operadores-logicos\obj\Debug\netcoreapp3.1\operadores-logicos.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\guardar-exercicio\operadores-logicos\operadores-logicos\obj\Debug\netcoreapp3.1\operadores-logicos.dll
+C:\Users\mathe\source\guardar-exercicio\operadores-logicos\operadores-logicos\obj\Debug\netcoreapp3.1\operadores-logicos.pdb
+C:\Users\mathe\source\guardar-exercicio\operadores-logicos\operadores-logicos\obj\Debug\netcoreapp3.1\operadores-logicos.genruntimeconfig.cache

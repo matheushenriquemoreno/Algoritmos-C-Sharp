@@ -1,0 +1,13 @@
+C:\Users\mathe\source\poo\conteudo\sintaxe_laco_for_each\sintaxe_laco_for_each\bin\Debug\netcoreapp3.1\sintaxe_laco_for_each.exe
+C:\Users\mathe\source\poo\conteudo\sintaxe_laco_for_each\sintaxe_laco_for_each\bin\Debug\netcoreapp3.1\sintaxe_laco_for_each.deps.json
+C:\Users\mathe\source\poo\conteudo\sintaxe_laco_for_each\sintaxe_laco_for_each\bin\Debug\netcoreapp3.1\sintaxe_laco_for_each.runtimeconfig.json
+C:\Users\mathe\source\poo\conteudo\sintaxe_laco_for_each\sintaxe_laco_for_each\bin\Debug\netcoreapp3.1\sintaxe_laco_for_each.runtimeconfig.dev.json
+C:\Users\mathe\source\poo\conteudo\sintaxe_laco_for_each\sintaxe_laco_for_each\bin\Debug\netcoreapp3.1\sintaxe_laco_for_each.dll
+C:\Users\mathe\source\poo\conteudo\sintaxe_laco_for_each\sintaxe_laco_for_each\bin\Debug\netcoreapp3.1\sintaxe_laco_for_each.pdb
+C:\Users\mathe\source\poo\conteudo\sintaxe_laco_for_each\sintaxe_laco_for_each\obj\Debug\netcoreapp3.1\sintaxe_laco_for_each.csproj.AssemblyReference.cache
+C:\Users\mathe\source\poo\conteudo\sintaxe_laco_for_each\sintaxe_laco_for_each\obj\Debug\netcoreapp3.1\sintaxe_laco_for_each.AssemblyInfoInputs.cache
+C:\Users\mathe\source\poo\conteudo\sintaxe_laco_for_each\sintaxe_laco_for_each\obj\Debug\netcoreapp3.1\sintaxe_laco_for_each.AssemblyInfo.cs
+C:\Users\mathe\source\poo\conteudo\sintaxe_laco_for_each\sintaxe_laco_for_each\obj\Debug\netcoreapp3.1\sintaxe_laco_for_each.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\poo\conteudo\sintaxe_laco_for_each\sintaxe_laco_for_each\obj\Debug\netcoreapp3.1\sintaxe_laco_for_each.dll
+C:\Users\mathe\source\poo\conteudo\sintaxe_laco_for_each\sintaxe_laco_for_each\obj\Debug\netcoreapp3.1\sintaxe_laco_for_each.pdb
+C:\Users\mathe\source\poo\conteudo\sintaxe_laco_for_each\sintaxe_laco_for_each\obj\Debug\netcoreapp3.1\sintaxe_laco_for_each.genruntimeconfig.cache

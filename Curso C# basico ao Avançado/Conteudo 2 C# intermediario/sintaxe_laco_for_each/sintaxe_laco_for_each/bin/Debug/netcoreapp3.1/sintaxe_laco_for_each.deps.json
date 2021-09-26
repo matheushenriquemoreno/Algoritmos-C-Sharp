@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "sintaxe_laco_for_each/1.0.0": {
+        "runtime": {
+          "sintaxe_laco_for_each.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sintaxe_laco_for_each/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

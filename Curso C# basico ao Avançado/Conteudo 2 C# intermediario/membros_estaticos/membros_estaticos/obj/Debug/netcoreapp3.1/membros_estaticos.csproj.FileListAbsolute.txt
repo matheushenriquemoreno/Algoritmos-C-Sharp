@@ -1,0 +1,12 @@
+C:\Users\mathe\source\poo\conteudo\membros_estaticos\membros_estaticos\bin\Debug\netcoreapp3.1\membros_estaticos.exe
+C:\Users\mathe\source\poo\conteudo\membros_estaticos\membros_estaticos\bin\Debug\netcoreapp3.1\membros_estaticos.deps.json
+C:\Users\mathe\source\poo\conteudo\membros_estaticos\membros_estaticos\bin\Debug\netcoreapp3.1\membros_estaticos.runtimeconfig.json
+C:\Users\mathe\source\poo\conteudo\membros_estaticos\membros_estaticos\bin\Debug\netcoreapp3.1\membros_estaticos.runtimeconfig.dev.json
+C:\Users\mathe\source\poo\conteudo\membros_estaticos\membros_estaticos\bin\Debug\netcoreapp3.1\membros_estaticos.dll
+C:\Users\mathe\source\poo\conteudo\membros_estaticos\membros_estaticos\bin\Debug\netcoreapp3.1\membros_estaticos.pdb
+C:\Users\mathe\source\poo\conteudo\membros_estaticos\membros_estaticos\obj\Debug\netcoreapp3.1\membros_estaticos.AssemblyInfoInputs.cache
+C:\Users\mathe\source\poo\conteudo\membros_estaticos\membros_estaticos\obj\Debug\netcoreapp3.1\membros_estaticos.AssemblyInfo.cs
+C:\Users\mathe\source\poo\conteudo\membros_estaticos\membros_estaticos\obj\Debug\netcoreapp3.1\membros_estaticos.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\poo\conteudo\membros_estaticos\membros_estaticos\obj\Debug\netcoreapp3.1\membros_estaticos.dll
+C:\Users\mathe\source\poo\conteudo\membros_estaticos\membros_estaticos\obj\Debug\netcoreapp3.1\membros_estaticos.pdb
+C:\Users\mathe\source\poo\conteudo\membros_estaticos\membros_estaticos\obj\Debug\netcoreapp3.1\membros_estaticos.genruntimeconfig.cache

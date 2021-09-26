@@ -1,0 +1,14 @@
+C:\Users\mathe\source\repos\Desafio_capitulo_09\Desafio_capitulo_09\bin\Debug\netcoreapp3.1\Desafio_capitulo_09.exe
+C:\Users\mathe\source\repos\Desafio_capitulo_09\Desafio_capitulo_09\bin\Debug\netcoreapp3.1\Desafio_capitulo_09.deps.json
+C:\Users\mathe\source\repos\Desafio_capitulo_09\Desafio_capitulo_09\bin\Debug\netcoreapp3.1\Desafio_capitulo_09.runtimeconfig.json
+C:\Users\mathe\source\repos\Desafio_capitulo_09\Desafio_capitulo_09\bin\Debug\netcoreapp3.1\Desafio_capitulo_09.runtimeconfig.dev.json
+C:\Users\mathe\source\repos\Desafio_capitulo_09\Desafio_capitulo_09\bin\Debug\netcoreapp3.1\Desafio_capitulo_09.dll
+C:\Users\mathe\source\repos\Desafio_capitulo_09\Desafio_capitulo_09\bin\Debug\netcoreapp3.1\Desafio_capitulo_09.pdb
+C:\Users\mathe\source\repos\Desafio_capitulo_09\Desafio_capitulo_09\obj\Debug\netcoreapp3.1\Desafio_capitulo_09.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\Desafio_capitulo_09\Desafio_capitulo_09\obj\Debug\netcoreapp3.1\Desafio_capitulo_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\repos\Desafio_capitulo_09\Desafio_capitulo_09\obj\Debug\netcoreapp3.1\Desafio_capitulo_09.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\Desafio_capitulo_09\Desafio_capitulo_09\obj\Debug\netcoreapp3.1\Desafio_capitulo_09.AssemblyInfo.cs
+C:\Users\mathe\source\repos\Desafio_capitulo_09\Desafio_capitulo_09\obj\Debug\netcoreapp3.1\Desafio_capitulo_09.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Desafio_capitulo_09\Desafio_capitulo_09\obj\Debug\netcoreapp3.1\Desafio_capitulo_09.dll
+C:\Users\mathe\source\repos\Desafio_capitulo_09\Desafio_capitulo_09\obj\Debug\netcoreapp3.1\Desafio_capitulo_09.pdb
+C:\Users\mathe\source\repos\Desafio_capitulo_09\Desafio_capitulo_09\obj\Debug\netcoreapp3.1\Desafio_capitulo_09.genruntimeconfig.cache

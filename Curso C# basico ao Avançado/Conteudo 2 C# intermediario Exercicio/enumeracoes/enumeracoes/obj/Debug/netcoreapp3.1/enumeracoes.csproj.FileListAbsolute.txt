@@ -1,0 +1,13 @@
+C:\Users\mathe\source\poo\exercicios\enumeracoes\enumeracoes\bin\Debug\netcoreapp3.1\enumeracoes.exe
+C:\Users\mathe\source\poo\exercicios\enumeracoes\enumeracoes\bin\Debug\netcoreapp3.1\enumeracoes.deps.json
+C:\Users\mathe\source\poo\exercicios\enumeracoes\enumeracoes\bin\Debug\netcoreapp3.1\enumeracoes.runtimeconfig.json
+C:\Users\mathe\source\poo\exercicios\enumeracoes\enumeracoes\bin\Debug\netcoreapp3.1\enumeracoes.runtimeconfig.dev.json
+C:\Users\mathe\source\poo\exercicios\enumeracoes\enumeracoes\bin\Debug\netcoreapp3.1\enumeracoes.dll
+C:\Users\mathe\source\poo\exercicios\enumeracoes\enumeracoes\bin\Debug\netcoreapp3.1\enumeracoes.pdb
+C:\Users\mathe\source\poo\exercicios\enumeracoes\enumeracoes\obj\Debug\netcoreapp3.1\enumeracoes.csproj.AssemblyReference.cache
+C:\Users\mathe\source\poo\exercicios\enumeracoes\enumeracoes\obj\Debug\netcoreapp3.1\enumeracoes.AssemblyInfoInputs.cache
+C:\Users\mathe\source\poo\exercicios\enumeracoes\enumeracoes\obj\Debug\netcoreapp3.1\enumeracoes.AssemblyInfo.cs
+C:\Users\mathe\source\poo\exercicios\enumeracoes\enumeracoes\obj\Debug\netcoreapp3.1\enumeracoes.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\poo\exercicios\enumeracoes\enumeracoes\obj\Debug\netcoreapp3.1\enumeracoes.dll
+C:\Users\mathe\source\poo\exercicios\enumeracoes\enumeracoes\obj\Debug\netcoreapp3.1\enumeracoes.pdb
+C:\Users\mathe\source\poo\exercicios\enumeracoes\enumeracoes\obj\Debug\netcoreapp3.1\enumeracoes.genruntimeconfig.cache

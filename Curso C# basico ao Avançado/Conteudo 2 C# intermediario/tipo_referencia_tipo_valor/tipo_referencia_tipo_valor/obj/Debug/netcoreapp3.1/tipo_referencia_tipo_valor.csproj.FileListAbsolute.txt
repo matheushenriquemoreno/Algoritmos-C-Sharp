@@ -1,0 +1,13 @@
+C:\Users\mathe\source\poo\conteudo\tipo_referencia_tipo_valor\tipo_referencia_tipo_valor\bin\Debug\netcoreapp3.1\tipo_referencia_tipo_valor.exe
+C:\Users\mathe\source\poo\conteudo\tipo_referencia_tipo_valor\tipo_referencia_tipo_valor\bin\Debug\netcoreapp3.1\tipo_referencia_tipo_valor.deps.json
+C:\Users\mathe\source\poo\conteudo\tipo_referencia_tipo_valor\tipo_referencia_tipo_valor\bin\Debug\netcoreapp3.1\tipo_referencia_tipo_valor.runtimeconfig.json
+C:\Users\mathe\source\poo\conteudo\tipo_referencia_tipo_valor\tipo_referencia_tipo_valor\bin\Debug\netcoreapp3.1\tipo_referencia_tipo_valor.runtimeconfig.dev.json
+C:\Users\mathe\source\poo\conteudo\tipo_referencia_tipo_valor\tipo_referencia_tipo_valor\bin\Debug\netcoreapp3.1\tipo_referencia_tipo_valor.dll
+C:\Users\mathe\source\poo\conteudo\tipo_referencia_tipo_valor\tipo_referencia_tipo_valor\bin\Debug\netcoreapp3.1\tipo_referencia_tipo_valor.pdb
+C:\Users\mathe\source\poo\conteudo\tipo_referencia_tipo_valor\tipo_referencia_tipo_valor\obj\Debug\netcoreapp3.1\tipo_referencia_tipo_valor.csproj.AssemblyReference.cache
+C:\Users\mathe\source\poo\conteudo\tipo_referencia_tipo_valor\tipo_referencia_tipo_valor\obj\Debug\netcoreapp3.1\tipo_referencia_tipo_valor.AssemblyInfoInputs.cache
+C:\Users\mathe\source\poo\conteudo\tipo_referencia_tipo_valor\tipo_referencia_tipo_valor\obj\Debug\netcoreapp3.1\tipo_referencia_tipo_valor.AssemblyInfo.cs
+C:\Users\mathe\source\poo\conteudo\tipo_referencia_tipo_valor\tipo_referencia_tipo_valor\obj\Debug\netcoreapp3.1\tipo_referencia_tipo_valor.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\poo\conteudo\tipo_referencia_tipo_valor\tipo_referencia_tipo_valor\obj\Debug\netcoreapp3.1\tipo_referencia_tipo_valor.dll
+C:\Users\mathe\source\poo\conteudo\tipo_referencia_tipo_valor\tipo_referencia_tipo_valor\obj\Debug\netcoreapp3.1\tipo_referencia_tipo_valor.pdb
+C:\Users\mathe\source\poo\conteudo\tipo_referencia_tipo_valor\tipo_referencia_tipo_valor\obj\Debug\netcoreapp3.1\tipo_referencia_tipo_valor.genruntimeconfig.cache

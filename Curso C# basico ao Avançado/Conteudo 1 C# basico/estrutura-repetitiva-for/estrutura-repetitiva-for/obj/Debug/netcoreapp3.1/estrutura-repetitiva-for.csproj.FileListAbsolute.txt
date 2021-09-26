@@ -1,0 +1,12 @@
+C:\Users\mathe\source\repos\estrutura-repetitiva-for\estrutura-repetitiva-for\bin\Debug\netcoreapp3.1\estrutura-repetitiva-for.exe
+C:\Users\mathe\source\repos\estrutura-repetitiva-for\estrutura-repetitiva-for\bin\Debug\netcoreapp3.1\estrutura-repetitiva-for.deps.json
+C:\Users\mathe\source\repos\estrutura-repetitiva-for\estrutura-repetitiva-for\bin\Debug\netcoreapp3.1\estrutura-repetitiva-for.runtimeconfig.json
+C:\Users\mathe\source\repos\estrutura-repetitiva-for\estrutura-repetitiva-for\bin\Debug\netcoreapp3.1\estrutura-repetitiva-for.runtimeconfig.dev.json
+C:\Users\mathe\source\repos\estrutura-repetitiva-for\estrutura-repetitiva-for\bin\Debug\netcoreapp3.1\estrutura-repetitiva-for.dll
+C:\Users\mathe\source\repos\estrutura-repetitiva-for\estrutura-repetitiva-for\bin\Debug\netcoreapp3.1\estrutura-repetitiva-for.pdb
+C:\Users\mathe\source\repos\estrutura-repetitiva-for\estrutura-repetitiva-for\obj\Debug\netcoreapp3.1\estrutura-repetitiva-for.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\estrutura-repetitiva-for\estrutura-repetitiva-for\obj\Debug\netcoreapp3.1\estrutura-repetitiva-for.AssemblyInfo.cs
+C:\Users\mathe\source\repos\estrutura-repetitiva-for\estrutura-repetitiva-for\obj\Debug\netcoreapp3.1\estrutura-repetitiva-for.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\estrutura-repetitiva-for\estrutura-repetitiva-for\obj\Debug\netcoreapp3.1\estrutura-repetitiva-for.dll
+C:\Users\mathe\source\repos\estrutura-repetitiva-for\estrutura-repetitiva-for\obj\Debug\netcoreapp3.1\estrutura-repetitiva-for.pdb
+C:\Users\mathe\source\repos\estrutura-repetitiva-for\estrutura-repetitiva-for\obj\Debug\netcoreapp3.1\estrutura-repetitiva-for.genruntimeconfig.cache

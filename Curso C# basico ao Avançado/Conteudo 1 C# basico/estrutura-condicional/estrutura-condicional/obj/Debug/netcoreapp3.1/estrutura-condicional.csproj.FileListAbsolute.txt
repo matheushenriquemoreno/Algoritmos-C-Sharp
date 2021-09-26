@@ -1,0 +1,13 @@
+C:\Users\mathe\source\repos\estrutura-condicional\estrutura-condicional\bin\Debug\netcoreapp3.1\estrutura-condicional.exe
+C:\Users\mathe\source\repos\estrutura-condicional\estrutura-condicional\bin\Debug\netcoreapp3.1\estrutura-condicional.deps.json
+C:\Users\mathe\source\repos\estrutura-condicional\estrutura-condicional\bin\Debug\netcoreapp3.1\estrutura-condicional.runtimeconfig.json
+C:\Users\mathe\source\repos\estrutura-condicional\estrutura-condicional\bin\Debug\netcoreapp3.1\estrutura-condicional.runtimeconfig.dev.json
+C:\Users\mathe\source\repos\estrutura-condicional\estrutura-condicional\bin\Debug\netcoreapp3.1\estrutura-condicional.dll
+C:\Users\mathe\source\repos\estrutura-condicional\estrutura-condicional\bin\Debug\netcoreapp3.1\estrutura-condicional.pdb
+C:\Users\mathe\source\repos\estrutura-condicional\estrutura-condicional\obj\Debug\netcoreapp3.1\estrutura-condicional.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\estrutura-condicional\estrutura-condicional\obj\Debug\netcoreapp3.1\estrutura-condicional.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\estrutura-condicional\estrutura-condicional\obj\Debug\netcoreapp3.1\estrutura-condicional.AssemblyInfo.cs
+C:\Users\mathe\source\repos\estrutura-condicional\estrutura-condicional\obj\Debug\netcoreapp3.1\estrutura-condicional.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\estrutura-condicional\estrutura-condicional\obj\Debug\netcoreapp3.1\estrutura-condicional.dll
+C:\Users\mathe\source\repos\estrutura-condicional\estrutura-condicional\obj\Debug\netcoreapp3.1\estrutura-condicional.pdb
+C:\Users\mathe\source\repos\estrutura-condicional\estrutura-condicional\obj\Debug\netcoreapp3.1\estrutura-condicional.genruntimeconfig.cache

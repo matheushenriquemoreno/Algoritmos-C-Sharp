@@ -1,0 +1,13 @@
+C:\Users\mathe\source\repos\Exercicio_fixacao_Poo\Exercicio_fixacao_Poo\obj\Debug\netcoreapp3.1\Exercicio_fixacao_Poo.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\Exercicio_fixacao_Poo\Exercicio_fixacao_Poo\obj\Debug\netcoreapp3.1\Exercicio_fixacao_Poo.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\Exercicio_fixacao_Poo\Exercicio_fixacao_Poo\obj\Debug\netcoreapp3.1\Exercicio_fixacao_Poo.AssemblyInfo.cs
+C:\Users\mathe\source\repos\Exercicio_fixacao_Poo\Exercicio_fixacao_Poo\obj\Debug\netcoreapp3.1\Exercicio_fixacao_Poo.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Exercicio_fixacao_Poo\Exercicio_fixacao_Poo\bin\Debug\netcoreapp3.1\Exercicio_fixacao_Poo.exe
+C:\Users\mathe\source\repos\Exercicio_fixacao_Poo\Exercicio_fixacao_Poo\bin\Debug\netcoreapp3.1\Exercicio_fixacao_Poo.deps.json
+C:\Users\mathe\source\repos\Exercicio_fixacao_Poo\Exercicio_fixacao_Poo\bin\Debug\netcoreapp3.1\Exercicio_fixacao_Poo.runtimeconfig.json
+C:\Users\mathe\source\repos\Exercicio_fixacao_Poo\Exercicio_fixacao_Poo\bin\Debug\netcoreapp3.1\Exercicio_fixacao_Poo.runtimeconfig.dev.json
+C:\Users\mathe\source\repos\Exercicio_fixacao_Poo\Exercicio_fixacao_Poo\bin\Debug\netcoreapp3.1\Exercicio_fixacao_Poo.dll
+C:\Users\mathe\source\repos\Exercicio_fixacao_Poo\Exercicio_fixacao_Poo\bin\Debug\netcoreapp3.1\Exercicio_fixacao_Poo.pdb
+C:\Users\mathe\source\repos\Exercicio_fixacao_Poo\Exercicio_fixacao_Poo\obj\Debug\netcoreapp3.1\Exercicio_fixacao_Poo.dll
+C:\Users\mathe\source\repos\Exercicio_fixacao_Poo\Exercicio_fixacao_Poo\obj\Debug\netcoreapp3.1\Exercicio_fixacao_Poo.pdb
+C:\Users\mathe\source\repos\Exercicio_fixacao_Poo\Exercicio_fixacao_Poo\obj\Debug\netcoreapp3.1\Exercicio_fixacao_Poo.genruntimeconfig.cache

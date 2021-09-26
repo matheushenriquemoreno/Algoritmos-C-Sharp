@@ -1,0 +1,12 @@
+C:\Users\mathe\source\repos\combinacao\combinacao\bin\Debug\netcoreapp3.1\combinacao.exe
+C:\Users\mathe\source\repos\combinacao\combinacao\bin\Debug\netcoreapp3.1\combinacao.deps.json
+C:\Users\mathe\source\repos\combinacao\combinacao\bin\Debug\netcoreapp3.1\combinacao.runtimeconfig.json
+C:\Users\mathe\source\repos\combinacao\combinacao\bin\Debug\netcoreapp3.1\combinacao.runtimeconfig.dev.json
+C:\Users\mathe\source\repos\combinacao\combinacao\bin\Debug\netcoreapp3.1\combinacao.dll
+C:\Users\mathe\source\repos\combinacao\combinacao\bin\Debug\netcoreapp3.1\combinacao.pdb
+C:\Users\mathe\source\repos\combinacao\combinacao\obj\Debug\netcoreapp3.1\combinacao.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\combinacao\combinacao\obj\Debug\netcoreapp3.1\combinacao.AssemblyInfo.cs
+C:\Users\mathe\source\repos\combinacao\combinacao\obj\Debug\netcoreapp3.1\combinacao.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\combinacao\combinacao\obj\Debug\netcoreapp3.1\combinacao.dll
+C:\Users\mathe\source\repos\combinacao\combinacao\obj\Debug\netcoreapp3.1\combinacao.pdb
+C:\Users\mathe\source\repos\combinacao\combinacao\obj\Debug\netcoreapp3.1\combinacao.genruntimeconfig.cache

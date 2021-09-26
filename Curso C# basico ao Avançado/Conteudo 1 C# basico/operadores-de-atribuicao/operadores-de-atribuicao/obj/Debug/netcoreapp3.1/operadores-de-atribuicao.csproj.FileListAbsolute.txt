@@ -1,0 +1,13 @@
+C:\Users\mathe\source\repos\operadores-de-atribuicao\operadores-de-atribuicao\bin\Debug\netcoreapp3.1\operadores-de-atribuicao.exe
+C:\Users\mathe\source\repos\operadores-de-atribuicao\operadores-de-atribuicao\bin\Debug\netcoreapp3.1\operadores-de-atribuicao.deps.json
+C:\Users\mathe\source\repos\operadores-de-atribuicao\operadores-de-atribuicao\bin\Debug\netcoreapp3.1\operadores-de-atribuicao.runtimeconfig.json
+C:\Users\mathe\source\repos\operadores-de-atribuicao\operadores-de-atribuicao\bin\Debug\netcoreapp3.1\operadores-de-atribuicao.runtimeconfig.dev.json
+C:\Users\mathe\source\repos\operadores-de-atribuicao\operadores-de-atribuicao\bin\Debug\netcoreapp3.1\operadores-de-atribuicao.dll
+C:\Users\mathe\source\repos\operadores-de-atribuicao\operadores-de-atribuicao\bin\Debug\netcoreapp3.1\operadores-de-atribuicao.pdb
+C:\Users\mathe\source\repos\operadores-de-atribuicao\operadores-de-atribuicao\obj\Debug\netcoreapp3.1\operadores-de-atribuicao.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\operadores-de-atribuicao\operadores-de-atribuicao\obj\Debug\netcoreapp3.1\operadores-de-atribuicao.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\operadores-de-atribuicao\operadores-de-atribuicao\obj\Debug\netcoreapp3.1\operadores-de-atribuicao.AssemblyInfo.cs
+C:\Users\mathe\source\repos\operadores-de-atribuicao\operadores-de-atribuicao\obj\Debug\netcoreapp3.1\operadores-de-atribuicao.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\operadores-de-atribuicao\operadores-de-atribuicao\obj\Debug\netcoreapp3.1\operadores-de-atribuicao.dll
+C:\Users\mathe\source\repos\operadores-de-atribuicao\operadores-de-atribuicao\obj\Debug\netcoreapp3.1\operadores-de-atribuicao.pdb
+C:\Users\mathe\source\repos\operadores-de-atribuicao\operadores-de-atribuicao\obj\Debug\netcoreapp3.1\operadores-de-atribuicao.genruntimeconfig.cache

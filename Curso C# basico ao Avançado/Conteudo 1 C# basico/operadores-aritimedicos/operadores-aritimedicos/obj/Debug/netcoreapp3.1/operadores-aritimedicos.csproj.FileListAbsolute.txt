@@ -1,0 +1,13 @@
+C:\Users\mathe\source\repos\operadores-aritimedicos\operadores-aritimedicos\bin\Debug\netcoreapp3.1\operadores-aritimedicos.exe
+C:\Users\mathe\source\repos\operadores-aritimedicos\operadores-aritimedicos\bin\Debug\netcoreapp3.1\operadores-aritimedicos.deps.json
+C:\Users\mathe\source\repos\operadores-aritimedicos\operadores-aritimedicos\bin\Debug\netcoreapp3.1\operadores-aritimedicos.runtimeconfig.json
+C:\Users\mathe\source\repos\operadores-aritimedicos\operadores-aritimedicos\bin\Debug\netcoreapp3.1\operadores-aritimedicos.runtimeconfig.dev.json
+C:\Users\mathe\source\repos\operadores-aritimedicos\operadores-aritimedicos\bin\Debug\netcoreapp3.1\operadores-aritimedicos.dll
+C:\Users\mathe\source\repos\operadores-aritimedicos\operadores-aritimedicos\bin\Debug\netcoreapp3.1\operadores-aritimedicos.pdb
+C:\Users\mathe\source\repos\operadores-aritimedicos\operadores-aritimedicos\obj\Debug\netcoreapp3.1\operadores-aritimedicos.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\operadores-aritimedicos\operadores-aritimedicos\obj\Debug\netcoreapp3.1\operadores-aritimedicos.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\operadores-aritimedicos\operadores-aritimedicos\obj\Debug\netcoreapp3.1\operadores-aritimedicos.AssemblyInfo.cs
+C:\Users\mathe\source\repos\operadores-aritimedicos\operadores-aritimedicos\obj\Debug\netcoreapp3.1\operadores-aritimedicos.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\operadores-aritimedicos\operadores-aritimedicos\obj\Debug\netcoreapp3.1\operadores-aritimedicos.dll
+C:\Users\mathe\source\repos\operadores-aritimedicos\operadores-aritimedicos\obj\Debug\netcoreapp3.1\operadores-aritimedicos.pdb
+C:\Users\mathe\source\repos\operadores-aritimedicos\operadores-aritimedicos\obj\Debug\netcoreapp3.1\operadores-aritimedicos.genruntimeconfig.cache

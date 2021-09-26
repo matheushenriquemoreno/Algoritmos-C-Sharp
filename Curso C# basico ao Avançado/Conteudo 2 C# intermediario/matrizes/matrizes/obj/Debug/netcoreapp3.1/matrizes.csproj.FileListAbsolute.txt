@@ -1,0 +1,13 @@
+C:\Users\mathe\source\poo\conteudo\matrizes\matrizes\bin\Debug\netcoreapp3.1\matrizes.exe
+C:\Users\mathe\source\poo\conteudo\matrizes\matrizes\bin\Debug\netcoreapp3.1\matrizes.deps.json
+C:\Users\mathe\source\poo\conteudo\matrizes\matrizes\bin\Debug\netcoreapp3.1\matrizes.runtimeconfig.json
+C:\Users\mathe\source\poo\conteudo\matrizes\matrizes\bin\Debug\netcoreapp3.1\matrizes.runtimeconfig.dev.json
+C:\Users\mathe\source\poo\conteudo\matrizes\matrizes\bin\Debug\netcoreapp3.1\matrizes.dll
+C:\Users\mathe\source\poo\conteudo\matrizes\matrizes\bin\Debug\netcoreapp3.1\matrizes.pdb
+C:\Users\mathe\source\poo\conteudo\matrizes\matrizes\obj\Debug\netcoreapp3.1\matrizes.csproj.AssemblyReference.cache
+C:\Users\mathe\source\poo\conteudo\matrizes\matrizes\obj\Debug\netcoreapp3.1\matrizes.AssemblyInfoInputs.cache
+C:\Users\mathe\source\poo\conteudo\matrizes\matrizes\obj\Debug\netcoreapp3.1\matrizes.AssemblyInfo.cs
+C:\Users\mathe\source\poo\conteudo\matrizes\matrizes\obj\Debug\netcoreapp3.1\matrizes.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\poo\conteudo\matrizes\matrizes\obj\Debug\netcoreapp3.1\matrizes.dll
+C:\Users\mathe\source\poo\conteudo\matrizes\matrizes\obj\Debug\netcoreapp3.1\matrizes.pdb
+C:\Users\mathe\source\poo\conteudo\matrizes\matrizes\obj\Debug\netcoreapp3.1\matrizes.genruntimeconfig.cache

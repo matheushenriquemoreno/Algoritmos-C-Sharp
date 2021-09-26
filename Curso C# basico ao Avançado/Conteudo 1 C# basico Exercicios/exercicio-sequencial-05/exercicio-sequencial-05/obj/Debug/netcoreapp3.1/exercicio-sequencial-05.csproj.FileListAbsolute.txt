@@ -1,0 +1,12 @@
+C:\Users\mathe\source\guardar-exercicio\exercicio-sequencial-05\exercicio-sequencial-05\bin\Debug\netcoreapp3.1\exercicio-sequencial-05.exe
+C:\Users\mathe\source\guardar-exercicio\exercicio-sequencial-05\exercicio-sequencial-05\bin\Debug\netcoreapp3.1\exercicio-sequencial-05.deps.json
+C:\Users\mathe\source\guardar-exercicio\exercicio-sequencial-05\exercicio-sequencial-05\bin\Debug\netcoreapp3.1\exercicio-sequencial-05.runtimeconfig.json
+C:\Users\mathe\source\guardar-exercicio\exercicio-sequencial-05\exercicio-sequencial-05\bin\Debug\netcoreapp3.1\exercicio-sequencial-05.runtimeconfig.dev.json
+C:\Users\mathe\source\guardar-exercicio\exercicio-sequencial-05\exercicio-sequencial-05\bin\Debug\netcoreapp3.1\exercicio-sequencial-05.dll
+C:\Users\mathe\source\guardar-exercicio\exercicio-sequencial-05\exercicio-sequencial-05\bin\Debug\netcoreapp3.1\exercicio-sequencial-05.pdb
+C:\Users\mathe\source\guardar-exercicio\exercicio-sequencial-05\exercicio-sequencial-05\obj\Debug\netcoreapp3.1\exercicio-sequencial-05.AssemblyInfoInputs.cache
+C:\Users\mathe\source\guardar-exercicio\exercicio-sequencial-05\exercicio-sequencial-05\obj\Debug\netcoreapp3.1\exercicio-sequencial-05.AssemblyInfo.cs
+C:\Users\mathe\source\guardar-exercicio\exercicio-sequencial-05\exercicio-sequencial-05\obj\Debug\netcoreapp3.1\exercicio-sequencial-05.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\guardar-exercicio\exercicio-sequencial-05\exercicio-sequencial-05\obj\Debug\netcoreapp3.1\exercicio-sequencial-05.dll
+C:\Users\mathe\source\guardar-exercicio\exercicio-sequencial-05\exercicio-sequencial-05\obj\Debug\netcoreapp3.1\exercicio-sequencial-05.pdb
+C:\Users\mathe\source\guardar-exercicio\exercicio-sequencial-05\exercicio-sequencial-05\obj\Debug\netcoreapp3.1\exercicio-sequencial-05.genruntimeconfig.cache

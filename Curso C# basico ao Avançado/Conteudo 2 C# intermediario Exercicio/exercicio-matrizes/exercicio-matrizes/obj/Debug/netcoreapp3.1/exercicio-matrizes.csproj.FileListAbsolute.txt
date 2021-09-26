@@ -1,0 +1,13 @@
+C:\Users\mathe\source\poo\exercicios\exercicio-matrizes\exercicio-matrizes\bin\Debug\netcoreapp3.1\exercicio-matrizes.exe
+C:\Users\mathe\source\poo\exercicios\exercicio-matrizes\exercicio-matrizes\bin\Debug\netcoreapp3.1\exercicio-matrizes.deps.json
+C:\Users\mathe\source\poo\exercicios\exercicio-matrizes\exercicio-matrizes\bin\Debug\netcoreapp3.1\exercicio-matrizes.runtimeconfig.json
+C:\Users\mathe\source\poo\exercicios\exercicio-matrizes\exercicio-matrizes\bin\Debug\netcoreapp3.1\exercicio-matrizes.runtimeconfig.dev.json
+C:\Users\mathe\source\poo\exercicios\exercicio-matrizes\exercicio-matrizes\bin\Debug\netcoreapp3.1\exercicio-matrizes.dll
+C:\Users\mathe\source\poo\exercicios\exercicio-matrizes\exercicio-matrizes\bin\Debug\netcoreapp3.1\exercicio-matrizes.pdb
+C:\Users\mathe\source\poo\exercicios\exercicio-matrizes\exercicio-matrizes\obj\Debug\netcoreapp3.1\exercicio-matrizes.csproj.AssemblyReference.cache
+C:\Users\mathe\source\poo\exercicios\exercicio-matrizes\exercicio-matrizes\obj\Debug\netcoreapp3.1\exercicio-matrizes.AssemblyInfoInputs.cache
+C:\Users\mathe\source\poo\exercicios\exercicio-matrizes\exercicio-matrizes\obj\Debug\netcoreapp3.1\exercicio-matrizes.AssemblyInfo.cs
+C:\Users\mathe\source\poo\exercicios\exercicio-matrizes\exercicio-matrizes\obj\Debug\netcoreapp3.1\exercicio-matrizes.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\poo\exercicios\exercicio-matrizes\exercicio-matrizes\obj\Debug\netcoreapp3.1\exercicio-matrizes.dll
+C:\Users\mathe\source\poo\exercicios\exercicio-matrizes\exercicio-matrizes\obj\Debug\netcoreapp3.1\exercicio-matrizes.pdb
+C:\Users\mathe\source\poo\exercicios\exercicio-matrizes\exercicio-matrizes\obj\Debug\netcoreapp3.1\exercicio-matrizes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\mathe\source\poo\conteudo\listas_list\listas_list\bin\Debug\netcoreapp3.1\listas_list.exe
+C:\Users\mathe\source\poo\conteudo\listas_list\listas_list\bin\Debug\netcoreapp3.1\listas_list.deps.json
+C:\Users\mathe\source\poo\conteudo\listas_list\listas_list\bin\Debug\netcoreapp3.1\listas_list.runtimeconfig.json
+C:\Users\mathe\source\poo\conteudo\listas_list\listas_list\bin\Debug\netcoreapp3.1\listas_list.runtimeconfig.dev.json
+C:\Users\mathe\source\poo\conteudo\listas_list\listas_list\bin\Debug\netcoreapp3.1\listas_list.dll
+C:\Users\mathe\source\poo\conteudo\listas_list\listas_list\bin\Debug\netcoreapp3.1\listas_list.pdb
+C:\Users\mathe\source\poo\conteudo\listas_list\listas_list\obj\Debug\netcoreapp3.1\listas_list.csproj.AssemblyReference.cache
+C:\Users\mathe\source\poo\conteudo\listas_list\listas_list\obj\Debug\netcoreapp3.1\listas_list.AssemblyInfoInputs.cache
+C:\Users\mathe\source\poo\conteudo\listas_list\listas_list\obj\Debug\netcoreapp3.1\listas_list.AssemblyInfo.cs
+C:\Users\mathe\source\poo\conteudo\listas_list\listas_list\obj\Debug\netcoreapp3.1\listas_list.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\poo\conteudo\listas_list\listas_list\obj\Debug\netcoreapp3.1\listas_list.dll
+C:\Users\mathe\source\poo\conteudo\listas_list\listas_list\obj\Debug\netcoreapp3.1\listas_list.pdb
+C:\Users\mathe\source\poo\conteudo\listas_list\listas_list\obj\Debug\netcoreapp3.1\listas_list.genruntimeconfig.cache

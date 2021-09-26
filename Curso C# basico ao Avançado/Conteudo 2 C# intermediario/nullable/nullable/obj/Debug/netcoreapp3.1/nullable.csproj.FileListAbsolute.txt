@@ -1,0 +1,13 @@
+C:\Users\mathe\source\poo\conteudo\nullable\nullable\bin\Debug\netcoreapp3.1\nullable.exe
+C:\Users\mathe\source\poo\conteudo\nullable\nullable\bin\Debug\netcoreapp3.1\nullable.deps.json
+C:\Users\mathe\source\poo\conteudo\nullable\nullable\bin\Debug\netcoreapp3.1\nullable.runtimeconfig.json
+C:\Users\mathe\source\poo\conteudo\nullable\nullable\bin\Debug\netcoreapp3.1\nullable.runtimeconfig.dev.json
+C:\Users\mathe\source\poo\conteudo\nullable\nullable\bin\Debug\netcoreapp3.1\nullable.dll
+C:\Users\mathe\source\poo\conteudo\nullable\nullable\bin\Debug\netcoreapp3.1\nullable.pdb
+C:\Users\mathe\source\poo\conteudo\nullable\nullable\obj\Debug\netcoreapp3.1\nullable.csproj.AssemblyReference.cache
+C:\Users\mathe\source\poo\conteudo\nullable\nullable\obj\Debug\netcoreapp3.1\nullable.AssemblyInfoInputs.cache
+C:\Users\mathe\source\poo\conteudo\nullable\nullable\obj\Debug\netcoreapp3.1\nullable.AssemblyInfo.cs
+C:\Users\mathe\source\poo\conteudo\nullable\nullable\obj\Debug\netcoreapp3.1\nullable.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\poo\conteudo\nullable\nullable\obj\Debug\netcoreapp3.1\nullable.dll
+C:\Users\mathe\source\poo\conteudo\nullable\nullable\obj\Debug\netcoreapp3.1\nullable.pdb
+C:\Users\mathe\source\poo\conteudo\nullable\nullable\obj\Debug\netcoreapp3.1\nullable.genruntimeconfig.cache

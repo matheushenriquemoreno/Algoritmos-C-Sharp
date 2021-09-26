@@ -1,0 +1,13 @@
+C:\Users\mathe\source\poo\conteudo\matrizes-2\matrizes-2\bin\Debug\netcoreapp3.1\matrizes-2.exe
+C:\Users\mathe\source\poo\conteudo\matrizes-2\matrizes-2\bin\Debug\netcoreapp3.1\matrizes-2.deps.json
+C:\Users\mathe\source\poo\conteudo\matrizes-2\matrizes-2\bin\Debug\netcoreapp3.1\matrizes-2.runtimeconfig.json
+C:\Users\mathe\source\poo\conteudo\matrizes-2\matrizes-2\bin\Debug\netcoreapp3.1\matrizes-2.runtimeconfig.dev.json
+C:\Users\mathe\source\poo\conteudo\matrizes-2\matrizes-2\bin\Debug\netcoreapp3.1\matrizes-2.dll
+C:\Users\mathe\source\poo\conteudo\matrizes-2\matrizes-2\bin\Debug\netcoreapp3.1\matrizes-2.pdb
+C:\Users\mathe\source\poo\conteudo\matrizes-2\matrizes-2\obj\Debug\netcoreapp3.1\matrizes-2.AssemblyInfoInputs.cache
+C:\Users\mathe\source\poo\conteudo\matrizes-2\matrizes-2\obj\Debug\netcoreapp3.1\matrizes-2.AssemblyInfo.cs
+C:\Users\mathe\source\poo\conteudo\matrizes-2\matrizes-2\obj\Debug\netcoreapp3.1\matrizes-2.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\poo\conteudo\matrizes-2\matrizes-2\obj\Debug\netcoreapp3.1\matrizes-2.dll
+C:\Users\mathe\source\poo\conteudo\matrizes-2\matrizes-2\obj\Debug\netcoreapp3.1\matrizes-2.pdb
+C:\Users\mathe\source\poo\conteudo\matrizes-2\matrizes-2\obj\Debug\netcoreapp3.1\matrizes-2.genruntimeconfig.cache
+C:\Users\mathe\source\poo\conteudo\matrizes-2\matrizes-2\obj\Debug\netcoreapp3.1\matrizes-2.csproj.AssemblyReference.cache
