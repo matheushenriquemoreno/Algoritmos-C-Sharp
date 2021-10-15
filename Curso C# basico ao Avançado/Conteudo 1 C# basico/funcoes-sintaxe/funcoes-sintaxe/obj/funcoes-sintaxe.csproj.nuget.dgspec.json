@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathe\\source\\repos\\funcoes-sintaxe\\funcoes-sintaxe\\funcoes-sintaxe.csproj": {}
+    "C:\\Users\\mathe\\source\\Curso C# basico ao Avançado\\Conteudo 1 C# basico\\funcoes-sintaxe\\funcoes-sintaxe\\funcoes-sintaxe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathe\\source\\repos\\funcoes-sintaxe\\funcoes-sintaxe\\funcoes-sintaxe.csproj": {
+    "C:\\Users\\mathe\\source\\Curso C# basico ao Avançado\\Conteudo 1 C# basico\\funcoes-sintaxe\\funcoes-sintaxe\\funcoes-sintaxe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathe\\source\\repos\\funcoes-sintaxe\\funcoes-sintaxe\\funcoes-sintaxe.csproj",
+        "projectUniqueName": "C:\\Users\\mathe\\source\\Curso C# basico ao Avançado\\Conteudo 1 C# basico\\funcoes-sintaxe\\funcoes-sintaxe\\funcoes-sintaxe.csproj",
         "projectName": "funcoes-sintaxe",
-        "projectPath": "C:\\Users\\mathe\\source\\repos\\funcoes-sintaxe\\funcoes-sintaxe\\funcoes-sintaxe.csproj",
+        "projectPath": "C:\\Users\\mathe\\source\\Curso C# basico ao Avançado\\Conteudo 1 C# basico\\funcoes-sintaxe\\funcoes-sintaxe\\funcoes-sintaxe.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathe\\source\\repos\\funcoes-sintaxe\\funcoes-sintaxe\\obj\\",
+        "outputPath": "C:\\Users\\mathe\\source\\Curso C# basico ao Avançado\\Conteudo 1 C# basico\\funcoes-sintaxe\\funcoes-sintaxe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
