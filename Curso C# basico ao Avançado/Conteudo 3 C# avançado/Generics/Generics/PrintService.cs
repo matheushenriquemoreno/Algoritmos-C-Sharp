@@ -8,13 +8,13 @@ namespace Generics
         private T[] _values = new T[10];
         private int _contador = 0;
 
-        public void AddValue(object valor)
+        public void AddValue(T valor)
         {
             if(_contador == 10)
             {
                 throw new InvalidOperationException("Is full");
             }
-            _values[_contador] = T;
+            _values[_contador] = valor;
             _contador++;
         }
 

@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Globalization;
+using System.Threading;
 
 namespace Operacao_datetime
 {
@@ -17,6 +19,14 @@ namespace Operacao_datetime
             DateTime boleto = DateTime.Now;
 
             DateTime prazo = boleto.AddDays(7);
+
+                DateTime dateToDisplay = new DateTime(2009, 6, 1, 8, 42, 50);
+
+            Thread.CurrentThread.CurrentCulture = new CultureInfo("fr-FR");
+            Console.WriteLine("Displaying short date for {0} culture:",
+                              Thread.CurrentThread.CurrentCulture.Name);
+            Console.WriteLine("   {0}", dateToDisplay.ToShortDateString());
+            Console.WriteLine();
 
             Console.WriteLine("boleto " + boleto +"\nprazo final " + prazo.ToString("d"));
 
