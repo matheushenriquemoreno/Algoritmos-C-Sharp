@@ -18,5 +18,25 @@ namespace System // quando criar um extensio methodos para uma classe ou struct,
             }
         
         }
+
+        public static bool EhMaiorQue18(this DateTime dataNascimento)
+        {
+
+            var dataAtual = DateTime.Now.AddYears(-18);
+
+            var maiorDeIdade = dataAtual > dataNascimento;
+
+           return maiorDeIdade;
+        }
+
+        public static object RetornaUmObjeto(this DateTime data)
+        {
+            return new
+            {
+                Nome = "objeto qualquer",
+                data = data,
+                teste = true
+            };
+        }
     }
 }

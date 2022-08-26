@@ -9,6 +9,7 @@ namespace POOAlura.Sitemas
 {
     public interface IAutentificacao 
     {
+        string Senha { get; set; }
         bool Autentificar(string senha);
         bool TrocarDeSenha(string senhaNova);
     }

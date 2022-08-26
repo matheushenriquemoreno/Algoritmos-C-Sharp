@@ -40,6 +40,8 @@ namespace POOAlura
 
             ParceiroComercial parceiro = new ParceiroComercial("marcelo",162785, "asd1234");
 
+            Funcionario joao = new Auxiliar("888-99") { Nome = "João" };
+
             sistema.Loggar(roberta,"1234");
             sistema.TrocarDeSenha(roberta, "1234");
 
